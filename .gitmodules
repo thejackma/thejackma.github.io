@@ -1,0 +1,3 @@
+[submodule "graph-recursion-visualizer"]
+	path = graph-recursion-visualizer
+	url = https://github.com/thejackma/graph-recursion-visualizer.git
